@@ -8,6 +8,13 @@ This gem manages supporting methods that are used in rspec example.
 gem 'rspec_method_grouping'
 ```
 
+then
+
+```ruby
+require 'rspec'
+require 'rspec_method_grouping'
+```
+
 # Usage
 
 ## before
